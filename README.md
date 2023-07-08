@@ -1,5 +1,3 @@
-### Hi there 👋
-
 
 ### Olá meu nome é Tassio Tenorio 🤙
 
