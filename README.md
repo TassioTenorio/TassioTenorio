@@ -7,7 +7,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100084245000488)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tassiotenorio)
 
-### Tecnologias que eu uso no meu dia
+### Technologies I use in my day
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=rafaelalexandrino&show_icons=true&theme=radical&layout=compact" />
 
 <div style="display: inline_block"><br/><img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -23,8 +23,8 @@
 
 </div>
 <br/>
-Apaixonado por tecnologia, buscando sempre inovar e aprimorar minhas habilidades para me tornar um excelente Desenvolvedor e assim conseguir transforamar vidas através da tecnologia!
 
+Passionate about technology, always seeking to innovate and improve my skills to become an excellent Developer and thus be able to transform lives through technology!
 
 ## Contatos: 
 - Email: tassiodesenvolvedor@gmail.com <br/>
