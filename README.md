@@ -1,5 +1,6 @@
 
-### Olá! Meu nome é Tassio Tenorio 🤙
+### Hello! My name is Tassio Tenorio 🤙
+<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tassiodesenvolvedor/)
