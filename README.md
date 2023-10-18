@@ -25,7 +25,7 @@
 
 </div>
 <br/>
-Estudando a cada dia para me tornar um excelente Desenvolvedor e assim conseguir transforamar vidas através da tecnologia!
+Apaixonado por tecnologia, buscando sempre inovar e aprimorar minhas habilidades para me tornar um excelente Desenvolvedor e assim conseguir transforamar vidas através da tecnologia!
 
 ## Contatos: 
 - Email: tassiodesenvolvedor@gmail.com <br/>
