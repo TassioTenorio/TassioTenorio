@@ -26,7 +26,7 @@
 
 Passionate about technology, always seeking to innovate and improve my skills to become an excellent Developer and thus be able to transform lives through technology!
 
-## Contatos: 
+## Contacts: 
 - Email: tassiodesenvolvedor@gmail.com <br/>
 - Cel: 11 96945-5533 <br/>
 
