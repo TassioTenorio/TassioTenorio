@@ -28,13 +28,11 @@
 <br/>
 Apaixonado por tecnologia, buscando sempre inovar e aprimorar minhas habilidades para me tornar um excelente Desenvolvedor e assim conseguir transforamar vidas através da tecnologia!
 
-<div> 
-<a href="https://www.instagram.com/tassiodesenvolvedor/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a href = "https://accounts.google.com/SignOutOptions?hl=pt-PT&continue=https://mail.google.com&service=mail&ec=GBRAFw"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/tassio-de-souza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-</div>&nbsp;&nbsp;
+
+## Contatos: 
+- Email: tassiodesenvolvedor@gmail.com <br/>
 - Cel: 11 96945-5533 <br/>
+
 
 
 
