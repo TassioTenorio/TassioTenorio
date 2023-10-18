@@ -1,6 +1,6 @@
 
 <p align="center">Hello! My name is Tassio Tenorio 🤙</p>
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
+<p align="center">I ❤️ solve great challenges using tech. <br><br> Focused on backend development, I am passionate about discovering new things and using them to create high-quality solutions. Today, I'm a mid-level developer focused on web development and automations.</p>&nbsp;
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tassiodesenvolvedor/)
